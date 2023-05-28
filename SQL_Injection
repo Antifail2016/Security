@@ -3,4 +3,16 @@ drop table
 
 user_id : 105; drop table
 
----------------------Buffer Overflow
+1.Buffer Overflow
+2.(DoS) Attack
+
+----------------------Authorizaztion
+
+Login , Sign in 
+
+----------------------Session management, Cookie
+
+1.Man in the Middle
+-a to(middle) b
+
+----------------------Parameter tempering
